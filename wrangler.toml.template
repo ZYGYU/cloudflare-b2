@@ -1,4 +1,4 @@
-name = "kodi-a1"
+name = "kodi-1"
 
 workers_dev = true
 compatibility_date = "2023-09-04"
